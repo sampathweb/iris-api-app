@@ -1,0 +1,7 @@
+# After activating environment with `source activate env`
+# pip install -r requirements_pip.txt
+
+python-oauth2~=1.0.0
+redis~=2.10.5
+fakeredis~=0.7.0
+mongomock>=3.5

@@ -1,0 +1,10 @@
+# conda create -p ./env python=3 --yes
+# source activate env
+# conda install -p ./env --file requirements_conda.txt --yes
+tornado>=4.4
+jupyter>=1.0
+pandas>=0.18
+matplotlib>=1.5
+scikit-learn>=0.17
+pymongo>=3.0
+mock>=2.0
